@@ -10,6 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 * Basic Angular boilerplate with tests setup.
 * Isometric UI with SVG sprites used from external sources.
 * UI driven commands and positioning of the robot.
+* NgRx Store and local storage for managing and storing state.
 * Run `npm install` and then `npm start` to run application.
 
 ## Build
